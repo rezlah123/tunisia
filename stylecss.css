@@ -1,0 +1,114 @@
+body{
+    width: 1000px;
+    margin: auto;
+    
+}
+header{
+    border: solid 2px red;
+    height: 170px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background: 70% 100% ;
+
+}
+
+header form{
+    border: solid 2px red;
+    width: 200px;
+    background-color: silver;
+    margin:10px ;
+    float: right;
+
+}
+
+label{
+
+    display: block;
+
+}
+#b1,#b2{
+
+    display: inline-block;
+    width:70px ;
+    background-color: maroon;
+    color: oldlace;
+    margin-top: 10px;
+
+
+}
+main{
+
+    border: solid 2px red;
+    background-color: silver;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+
+
+}
+
+nav{
+
+    border: outset 2px ;
+    width: 40%;
+    height: 600px;
+    background-color: blue;
+
+}
+
+nav ul{
+
+    border: solid 2px red;
+    list-style: none;
+    margin-top: 150px;
+
+}
+
+nav ul li{
+
+    border: solid 2px red;
+    width: 120px;
+    height: 25px;
+    background-color: maroon;
+    margin-top: 10px;
+    text-align: center;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: oldlace;
+}
+
+section{
+    border: outset 2px black ;
+    width: 77%;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    right: 150px;
+}
+
+iframe{
+    border: none;
+    height: 100%;
+    width: 100%;
+
+}
+footer{
+    height: 70px;
+    border: outset 2px ;
+    
+}
+footer img{
+    height: 70px;
+    width: 70px;
+    float: right;
+}
+
+
+h3{
+    float: right;
+}

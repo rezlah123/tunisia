@@ -1,0 +1,42 @@
+header h1:hover{
+    transform: scale(1.5);
+    transition-duration: 2s;
+    transition-delay: 2s;
+}
+header{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: black;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: x-large;
+}
+nav{ 
+    height: 540px;
+    width: 20%;
+    background-color: black;
+    float: left;
+}
+
+aside{
+    height: 540px;
+    width: 20%;
+    background-color: black;
+    float: left;
+}
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    text-align: center;
+    font-size: x-small
+}
+main{
+    height: 540px;
+    width: 60%;
+    background-color: black;
+    float: left;
+
+}
